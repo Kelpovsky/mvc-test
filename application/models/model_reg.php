@@ -7,8 +7,7 @@ class model_reg {
     }
 
     public function login() {
-        $myObject = new user();
-        $resultData = $myObject->create($username, $password);
+        
     }
 
 }
